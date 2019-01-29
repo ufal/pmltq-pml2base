@@ -8,7 +8,6 @@ use File::Basename qw/dirname basename/;
 use lib abs_path( File::Spec->catdir( dirname(__FILE__), File::Spec->updir, File::Spec->updir, 'lib' ) );
 
 use Test::PostgreSQL;
-use Test::MockModule;
 
 use Treex::PML;
 use Treex::PML::Factory;
