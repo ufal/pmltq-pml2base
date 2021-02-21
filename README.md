@@ -5,7 +5,7 @@ PMLTQ::PML2BASE - Convert from PML to SQL
 <div>
     <a href="https://travis-ci.org/ufal/pmltq-pml2base"><img src="https://travis-ci.org/ufal/pmltq-pml2base.svg?branch=master" alt="Build Status"></a>
     <a href="https://coveralls.io/github/ufal/pmltq-pml2base?branch=master"><img src="https://coveralls.io/repos/ufal/pmltq-pml2base/badge.svg?branch=master&amp;service=github" alt="Coverage Status"></a>
-    <a href="https://badge.fury.io/pl/PMLTQ-pml2base"><img src="https://badge.fury.io/pl/PMLTQ-pml2base.svg" alt="CPAN version"></a>
+    <a href="https://badge.fury.io/pl/PMLTQ-PML2BASE"><img src="https://badge.fury.io/pl/PMLTQ-PML2BASE.svg" alt="CPAN version"></a>
 </div>
 
 # VERSION
